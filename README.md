@@ -1,2 +1,2 @@
-# slack
+# Slack
 Testing slack integrations
